@@ -3,7 +3,7 @@ terraform {
     organization = "plateer"
 
     workspaces {
-      name = "hashicat-aws"
+      name = "tfc-demo"
     }
   }
 }
